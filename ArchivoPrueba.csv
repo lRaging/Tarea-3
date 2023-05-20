@@ -1,0 +1,15 @@
+Nombre, Prioridad, TareasPrecedentes
+X1, 1,
+Y1, 3, X1
+Z1, 2, X1
+W1, 4, Y1 Z1
+V1, 5, Y1
+U1, 1,
+O1, 2, U1
+P1, 3, U1
+Q1, 5, O1 P1
+R1, 4, U1
+S1, 1,
+T1, 3, S1
+A1, 2, S1
+B1, 5, T1 A1
